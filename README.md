@@ -1,6 +1,5 @@
-Hi, I’m @AlxR21(AlokRaj)
+Hi, I’m Alok Raj(@AlxR21)
 I’m interested in Creating(Webapps,webpages e.t.c)
-I’m currently learning Spring & Spring Boot
 I’m looking to collaborate on, right now, anything. 
 How to reach me rajlk45@gmail.com
 
